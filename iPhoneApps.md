@@ -1,0 +1,10 @@
+  * [Bluetooth file sharing for iOS, at last](http://getceleste.com)
+  * [Blutrol](http://ringwald.ch/cydia/blutrol) - Control your favorite game with a real game controller
+  * [BTstack GPS - use BT GPS with iPod touch and iPad Wifi](http://ringwald.ch/cydia/gps)
+  * [BTstack Keyboard](http://ringwald.ch/keyboard/Welcome.html) (obsolete, use iOS support) ([full](http://ringwald.ch/cydia/keyboard), [demo](http://apt.thebigboss.org/onepackage.php?bundleid=ch.ringwald.keyboarddemo&db=))
+  * [BTstack Mouse](http://apt.thebigboss.org/onepackage.php?bundleid=ch.ringwald.mouse&db=) (obsolete) Use new [BTC Mouse & Trackpad](http://ringwald.ch/cydia/mouse/)
+  * [WeBe++ Bluetooth HID Mouse and Keyboard](http://www.weblooks.ch/apps/iphone-apps/webe/)
+  * [WiiMote OpenGL-ES Demo](http://apt.thebigboss.org/onepackage.php?bundleid=ch.ringwald.wiimoteopengldemo&db=)
+  * [Wiimote Music Control](http://apt.thebigboss.org/onepackage.php?bundleid=com.conradkramer.wiimotemusiccontrols&db=)
+  * [LegoDrive to control Lego Mindstorm NXT robot](http://apt.thebigboss.org/onepackage.php?bundleid=tr.gen.saygin.legodrive&db=)
+  * Various emulators use it for controller input, e.g. those by [zodTTD](http://www.zodttd.com)
